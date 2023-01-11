@@ -8,8 +8,15 @@ font-family: Garamond, Georgia, 'Times New Roman', Times, serif ;
 }
 img {
     display: block;
-    margin-left:auto;
-    margin-right: auto;
     height: auto;
     width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+ul.a {
+    list-style-type: georgian;
+    color:black;
+    background-color: rgb(161, 95, 41);
 }
